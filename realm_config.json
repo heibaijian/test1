@@ -1,7 +1,7 @@
 {
-    "app_id": "application-5-syoru",
+    "app_id": "application-4-zhsct",
     "config_version": 20210101,
-    "name": "Application-5",
+    "name": "Application-4",
     "location": "SG",
     "provider_region": "aws-ap-southeast-1",
     "deployment_model": "LOCAL"
